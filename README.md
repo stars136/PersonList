@@ -1,7 +1,7 @@
 # PersonList
 一个有加密功能的Java通讯录
 
-需要连接mysql数据库
+- 需要连接mysql数据库
 
 程序实现功能：
 1、服务器
